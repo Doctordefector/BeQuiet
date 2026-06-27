@@ -34,6 +34,6 @@ Uses the Windows Core Audio API (`IAudioSessionManager2`) via [NAudio](https://g
 MIT
 
 
+## Quick note
 
-
-p.s Hi Valerie!
+Hi Valerie!
