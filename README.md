@@ -13,7 +13,7 @@ Pick your priority apps (Discord, Telegram, etc.) and then they stay at full vol
 - **Live re-ducking**  change the level while active, volumes update instantly
 - **Global hotkey**  configurable, works even when the app is in the tray
 - **System tray**  left-click to toggle, right-click for menu
-- **Auto-duck new apps** — anything that starts playing audio while active gets ducked
+- **Auto-duck new apps**  anything that starts playing audio while active gets ducked
 - **Portable exe** 
 
 ## Usage
@@ -32,3 +32,8 @@ Uses the Windows Core Audio API (`IAudioSessionManager2`) via [NAudio](https://g
 ## License
 
 MIT
+
+
+
+
+p.s Hi Valerie!
