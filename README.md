@@ -1,5 +1,6 @@
 <img width="4096" height="4096" alt="duck" src="https://github.com/user-attachments/assets/4b41c291-7559-4c12-8521-c19930b0fa83" />
-# BeQuiet
+
+## BeQuiet
 
 A simple Windows 11 utility that "ducks" the volume of background apps.
 
