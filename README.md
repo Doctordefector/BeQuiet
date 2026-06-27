@@ -27,7 +27,7 @@ Pick your priority apps (Discord, Telegram, etc.) and then they stay at full vol
 Closing or minimizing the window sends it to the system tray. Right-click the tray icon → **Exit** to quit.
 
 
-Uses the Windows Core Audio API (`IAudioSessionManager2`) via [NAudio](https://github.com/naudio/NAudio) to enumerate per-app audio sessions and control their volumes individually — the same mechanism the Windows Volume Mixer uses.
+Uses the Windows Core Audio API (`IAudioSessionManager2`) via [NAudio](https://github.com/naudio/NAudio) to enumerate per-app audio sessions and control their volumes individually the same mechanism the Windows Volume Mixer uses.
 
 ## License
 
